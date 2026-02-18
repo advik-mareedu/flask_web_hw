@@ -1,0 +1,4 @@
+Flask==0.1.0
+Werkzeug==0.7
+Jinja2==2.11.2
+MarkupSafe==0.23
